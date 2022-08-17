@@ -2,7 +2,7 @@
 
 A small web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them, and have your user authentification feauture thanks to Firebase.
 
-# IMPORTANT NOTE: **One module is missing in this repository as the file was large. You can download that module from the given link:**
+# IMPORTANT NOTE: One module is missing in this repository as the file was large. You can download that module from the given link:
 
 ## Amazon Clone Demo Link
 
@@ -21,7 +21,3 @@ You can watch the site here
 - Store orders for logged in user
 - Responsive Design
 - Deploy the app live on Firebase
-
-## Author
-
-Özge Coşkun Gürsucu (codermother)
